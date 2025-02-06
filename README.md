@@ -4,7 +4,7 @@ This project implements Number Plate Detection, including the detection of blurr
 
 Features
 Number Plate Detection using pre-trained Haarcascade classifiers.
-Blurred Number Plate Detection with additional preprocessing techniques.\n
+Blurred Number Plate Detection with additional preprocessing techniques.
 Technologies Used
 Python
 OpenCV
